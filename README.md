@@ -1,8 +1,8 @@
 # Max Guo - Personal Profile 
 
-- Four sections: About, Skills,Experience and Eduction
+- Four sections: About, Skills, Experience and Eduction
 - Included a updated LinkedIn profile page
-- Included update GitHub profile with pinned repositories featuring Projects and four assignments.
+- Included update GitHub profile 
 - URL: https://maxguojiaqi.github.io/Portfolio/index.html
 
 
