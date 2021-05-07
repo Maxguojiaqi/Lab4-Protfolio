@@ -3,7 +3,7 @@
 - Four sections: About, Skills, Experience and Eduction
 - Included a updated LinkedIn profile page
 - Included update GitHub profile 
-- URL: https://maxguojiaqi.github.io/Portfolio/index.html
+- URL: https://maxguojiaqi.github.io/Lab4-Protfolio/index.html
 
 
 **Website Demo**:
